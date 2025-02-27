@@ -1,21 +1,32 @@
-# Blog Spring Boot (BitBucket)
+# 🚀 Blog Spring Boot (BitBucket)
 
-## Url Link
-https://bitbucket.org/wizzidev/blog-spring-boot/src/main/
+A **simple blog application** built with **Spring Boot**, featuring **CRUD operations for posts, categories, comments**, and **authentication using Spring Security (JWT)**.
 
-## Preview Project
+## 🌐 **Repository URL**
+🔗 [Bitbucket Repository](https://bitbucket.org/wizzidev/blog-spring-boot/src/main/)
 
-### Preview ALl Post
+---
+
+## 🎨 **Project Preview**
+
+### 📰 **All Posts Page**
+Displays a list of all published posts.  
 ![index posts](https://raw.githubusercontent.com/WizziGameDev/blog-spring-boot/main/blog-image/1.png)
 
-### Preview Post Include Input Comment
+### 💬 **Post Details & Comments**
+Shows post details and allows users to add comments.  
 ![posts](https://raw.githubusercontent.com/WizziGameDev/blog-spring-boot/main/blog-image/2.png)
 
-### Preview Login Page Using Spring Security (Jwt)
+### 🔐 **Login Page (Spring Security + JWT)**
+Authentication system using **Spring Security** and **JWT Token**.  
 ![login page](https://raw.githubusercontent.com/WizziGameDev/blog-spring-boot/main/blog-image/3.png)
 
-### Preview CRUD Post
+### 📝 **CRUD Posts (Admin Panel)**
+Admins can **create, edit, and delete posts** from the dashboard.  
 ![post admin](https://raw.githubusercontent.com/WizziGameDev/blog-spring-boot/main/blog-image/4.png)
 
-### Preview CRUD Category
-![categoty admin](https://raw.githubusercontent.com/WizziGameDev/blog-spring-boot/main/blog-image/5.png)
+### 📂 **CRUD Categories**
+Manage blog categories for better content organization.  
+![category admin](https://raw.githubusercontent.com/WizziGameDev/blog-spring-boot/main/blog-image/5.png)
+
+---
